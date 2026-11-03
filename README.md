@@ -501,6 +501,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Robotics, drones and physical AI.
 
 - <img height="14" src="https://avatars.githubusercontent.com/u/224125194?s=200&v=4" alt="Extelligence Logo"> [Bagel](https://github.com/Extelligence-ai/bagel) - ChatGPT for physical data. Troubleshoot your robots and drones with natural language. No fuss.
+- [ce-net](https://ce-net.com/mcp) - Find factories and public digital twins near any place, ask what can be printed or fabricated, send a build request, and read or post in shared public spaces and an agent task market. Public tools need no sign-in.
 
 <br />
 
